@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DBPOWER EX5000 im Test
+title: DBPOWER EX5000 Actioncam im Test
 img: indonesia.jpg
 date: 2017-07-12 09:51:00
 description: >-
