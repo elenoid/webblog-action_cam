@@ -10,8 +10,6 @@ tag: Travel
 
 ## **Wer nicht gleich &uuml;ber 350 Euro in eine GoPro investieren will, findet mit dem Kauf einer Rollei Actioncam eine gute Alternative.**
 
-&nbsp;
-
 ### Overview - Rollei Actioncam 425
 
 Mit der Rollei Actioncam 425 unter 100 Euro sagt das Deutsche Unternehmen GoPro den Kampf an. Die Actionkamera &uuml;berzeugt mit einer 4K Videoaufl&ouml;sung mit 25Fps und einer Full HD Aufl&ouml;sung mit jeweis 30 oder 60 Fps.
@@ -41,4 +39,6 @@ Rollei hat die Actioncam mit allerlei Zubeh&ouml;r ausgestattet. Hier ist die vo
 * Safety Pad Flat und Safety Pad Curved mit 3M-Sticker
 * Quickshoe Stativ-Adapter
 
-### Fazit
+### Fazit - Rollei Actioncam 425
+
+Die Rollei ist zu den GoPros eine echte Alternative. Die Videoqualit&auml;t reicht fast zur GoPro heran. Einsparen muss man hier beim Akku und dem Weitwinkel, was durch das grosse Zubeh&ouml;r wider wett gemacht wird. Die Rollei Actioncam 425, unser Preis Leistungs Sieger.
