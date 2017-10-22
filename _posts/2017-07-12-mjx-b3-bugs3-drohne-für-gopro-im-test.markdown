@@ -10,8 +10,16 @@ tag: Travel
 
 ## MJX B3 Bugs3 die g&uuml;nstigere Alternative f&uuml;r die GoPro Karma
 
-Mei Jia Xin kurz MJX sind bekannt Spielzeug Drohnen zu produzieren. Ihr letztes Produkt fokussiert aber vor allem auf Hobby-Fotografen und Sport Drohnenflieger.
+Mei Jia Xin kurz MJX sind bekannt, Spielzeug Drohnen zu produzieren. Ihr letztes Produkt fokussiert aber vor allem auf Hobby-Fotografen und Sport Drohnenflieger.
 
 ### Overview
 
 Was die Bugs3 Drohne von den anderen Dronen in diesem Preissegment unterscheidet, sind die B&uuml;rstenlosen Motoren. Diese Motoren bieten bessere Leistung, eine h&ouml;here Geschwindigkeit und eine l&auml;ngere Lebenszeiten. Die MJX besitzt ausserdem 2 Geschwindigkeitsstufen. Eine langsamen Modus gedacht f&uuml;r Landschaftaufnahmen oder engem Gel&auml;nde und ein schneller Modus mit der man die Drohne auf offen Gel&auml;nde herumflitzen lassen kann. F&uuml;r die Hobbyphotografen ist die Drohne f&uuml;r eine GoPro und Xiaomi Xiaoyi Montur ausgestattet.
+
+### Videoaufnahme mit Actioncam
+
+Die Videoaufnahmen der B3 sind durchaus zu gebrauchen. An die &uuml;ber 1000 Euro Drohnen kommt sie aber nicht ran, da sie kein Gimbal System (Stabilisierung) besitzt und es somit nicht zu perfekt fl&uuml;ssigen Aufnahmen wie man es zum Beispiel in Werbung gesehen hat kommt. Trotz des Nachteils macht es Spass die Landschaften mit der Drohne zu erkunden das sie auch f&uuml;r Anf&auml;nger leicht zu navigieren ist.
+
+### Handling
+
+&nbsp;
