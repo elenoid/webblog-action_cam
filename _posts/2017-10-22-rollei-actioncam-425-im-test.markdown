@@ -8,7 +8,7 @@ tag: Travel
 ---
 
 
-### **Wer nicht gleich &uuml;ber 350 Euro in eine GoPro investieren will, findet mit dem Kauf einer Rollei Actioncam eine gute Alternative.**
+## **Wer nicht gleich &uuml;ber 350 Euro in eine GoPro investieren will, findet mit dem Kauf einer Rollei Actioncam eine gute Alternative.**
 
 &nbsp;
 
@@ -18,25 +18,17 @@ Mit der Rollei Actioncam 425 unter 100 Euro sagt das Deutsche Unternehmen GoPro 
 
 Rollei ist bekannt hochwertige Kameras herzustellen bei der 425 ist dass auch keine Ausnahme. Die Kamera ist sehr stabil und ist qualitativ gut verarbeitet. Mit 75 Gramm ist sie etwas leichter als die HERO5. Sie besitzt ein Grosses Display und ein 170&deg; Weitwinkel-Objektiv. Vorbildlich von Rollei: Die Actioncamera bringt auch allerhand Zubeh&ouml;r mit sich.
 
-&nbsp;
-
 ### Video - Rollei Actioncam 425
 
 Die 425 muss sich in Sache Videoaufnahme nicht von der Gopro Verstecken. Die Videos sind insgesamt sehr scharf und detailreich. Im Vergleich zur Gopro sind die Farben etwas mehr ges&auml;ttigt, was zu meinem Geschmack fast noch besser gefiel als die GoPro. Das 170&deg; Weitwinkel-Objektiv reicht, um anst&auml;ndige Aufnahmen mit Mounten-bike, Motorrad oder Skis zu machen, leider kann sie dabei mit einer GoPro HERO5 nicht mithalten. Die HERO5 hat einen weit gr&ouml;sseren Winkel als die 425, was man beim Kauf beachten sollte, wenn man zum Beispiel eine Schnee oder Berglandschaft Filmen will.
-
-&nbsp;
 
 ### Audio - Rollei Actioncam 425
 
 Die Audioqualit&auml;t der Cam ist anst&auml;ndig, aber hier darf man auch keine Wunder erwarten. M&ouml;chte man einen guten Sound, so sollte man eher zu einem externen Aufnahmeger&auml;t greifen.
 
-&nbsp;
-
 ### Akku - Rollei Actioncam 425
 
 Laut Hersteller soll der Akku f&uuml;r bis zu 90 Minuten reichen. Im Test sind wir mit 84 Minuten auch fast auf diesen Wert gekommen. Hier schneiden aber andere Action-Cams etwas besser ab. Im Full HD Modus mit 60Fps kommt die HERO5 auf 2Stunden, 30 Minuten mehr als die Rollei. Zum Gl&uuml;ck kann man auch bei der 425 den Akku einfach austauschen
-
-&nbsp;
 
 ### Zubeh&ouml;r - Rollei Actioncam 425
 
