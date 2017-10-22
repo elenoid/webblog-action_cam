@@ -40,6 +40,8 @@ Rollei hat die Actioncam mit allerlei Zubeh&ouml;r ausgestattet. Hier ist die vo
 * Halterung Basic mit 2-Komponenten Drehknopf
 * Safety Pad Flat und Safety Pad Curved mit 3M-Sticker
 * Quickshoe Stativ-Adapter
+* Usb Kabel
+* Akku![](/uploads/versions/face---x----128-128x---.jpg)
 
 ### Fazit - Rollei Actioncam 425
 
