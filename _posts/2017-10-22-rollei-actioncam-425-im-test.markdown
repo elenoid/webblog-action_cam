@@ -8,9 +8,7 @@ tag: Travel
 ---
 
 
-**Wer nicht gleich &uuml;ber 350 Euro in eine GoPro investieren will, findet mit dem Kauf einer Rollei Actioncam eine gute Alternative.**
-
-&nbsp;
+#### **Wer nicht gleich &uuml;ber 350 Euro in eine GoPro investieren will, findet mit dem Kauf einer Rollei Actioncam eine gute Alternative.**
 
 ### Overview - Rollei Actioncam 425
 
@@ -21,5 +19,24 @@ Rollei ist bekannt hochwertige Kameras herzustellen bei der 425 ist dass auch ke
 ### Video - Rollei Actioncam 425
 
 Die 425 muss sich in Sache Videoaufnahme nicht von der Gopro Verstecken. Die Videos sind insgesamt sehr scharf und detailreich. Im Vergleich zur Gopro sind die Farben etwas mehr ges&auml;ttigt, was zu meinem Geschmack fast noch besser gefiel als die GoPro. Das 170&deg; Weitwinkel-Objektiv reicht, um anst&auml;ndige Aufnahmen mit Mounten-bike, Motorrad oder Skis zu machen, leider kann sie dabei mit einer GoPro HERO5 nicht mithalten. Die HERO5 hat einen weit gr&ouml;sseren Winkel als die 425, was man beim Kauf beachten sollte, wenn man zum Beispiel eine Schnee oder Berglandschaft Filmen will.
+
+### Audio - Rollei Actioncam 425
+
+Die Audioqualit&auml;t der Cam ist anst&auml;ndig, aber hier darf man auch keine Wunder erwarten. M&ouml;chte man einen guten Sound, so sollte man eher zu einem externen Aufnahmeger&auml;t greifen.
+
+### Akku - Rollei Actioncam 425
+
+Laut Hersteller soll der Akku f&uuml;r bis zu 90 Minuten reichen. Im Test sind wir mit 84 Minuten auch fast auf diesen Wert gekommen. Hier schneiden aber andere Action-Cams etwas besser ab. Im Full HD Modus mit 60Fps kommt die HERO5 auf 2Stunden, 30 Minuten mehr als die Rollei. Zum Gl&uuml;ck kann man auch bei der 425 den Akku einfach austauschen
+
+### Zubeh&ouml;r - Rollei Actioncam 425
+
+Rollei hat die Actioncam mit allerlei Zubeh&ouml;r ausgestattet. Hier ist die vollst&auml;ndige Liste:
+
+* Hochfrequenz-Handgelenk-Fernbedienung
+* Unterwasser-Schutzgeh&auml;use mit 2 auswechselbaren R&uuml;ckw&auml;nden
+* Kamera-Rahmen Halter und Adapter
+* Halterung Basic mit 2-Komponenten Drehknopf
+* Safety Pad Flat und Safety Pad Curved mit 3M-Sticker
+* Quickshoe Stativ-Adapter
 
 ### Fazit
