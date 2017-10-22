@@ -12,7 +12,7 @@ tag: Travel
 
 ### Overview -
 
-Ein noch Unbekannter Hersteller versucht sein Gl&uuml;ck eine Actioncam unter 50 Euro auf den Markt zu bringen. Laut den Kundenreviews von Amazon macht die Cam keinen schlechten Eindruck.
+Ein etwas Unbekannter Hersteller versucht sein Gl&uuml;ck eine Actioncam unter 50 Euro auf den Markt zu bringen. Laut den Kundenreviews von Amazon macht die Cam keinen schlechten Eindruck.
 
 Die Actioncamera besitzt ein 2 Zoll/5.08cm grosses Display, eine Panasonic 14MP CMOS und eine 170&deg; Weitwinkel Linse mit der man 1080p HD Aufnahmen mit 30 Fps filmen kann. Das Geh&auml;use ist f&uuml;r 50 Euro ordentlich Verarbeitet und Kn&ouml;pfe funktioneren einwandfrei. Auch hier erh&auml;lt man wie bei der Rollei Actioncam 425 sehr viel Zubeh&ouml;r, wie mehrere Halterungen und ein Wasserdichtes Geh&auml;use.
 
